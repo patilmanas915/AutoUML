@@ -25,14 +25,14 @@ export default function Header() {
             </div>
             <div>
               <h1 className="text-xl font-bold bg-gradient-to-r from-gray-900 to-blue-900 bg-clip-text text-transparent">
-                UML Generator
+                ArchGenie
               </h1>
               <p className="text-xs text-gray-500">AI-Powered Diagrams</p>
             </div>
           </motion.div>
           
           <nav className="hidden md:flex items-center space-x-6">
-            <a 
+            {/* <a 
               href="#examples" 
               className="text-gray-600 hover:text-blue-600 transition-colors font-medium"
             >
@@ -52,7 +52,7 @@ export default function Header() {
             >
               <Github className="w-4 h-4" />
               <span>GitHub</span>
-            </motion.a>
+            </motion.a> */}
           </nav>
 
           {/* Mobile menu button */}

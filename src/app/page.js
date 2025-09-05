@@ -46,8 +46,8 @@ export default function Home() {
     },
     {
       icon: <Shield className="w-6 h-6" />,
-      title: "Production Ready",
-      description: "Export high-quality diagrams ready for documentation and presentations"
+      title: "Software & Hardware Design",
+      description: "Software diagrams: ER, Sequence, Activity, Class, Flow Charts. Hardware: Complete IoT project flows"
     },
     {
       icon: <Globe className="w-6 h-6" />,
@@ -82,7 +82,7 @@ export default function Home() {
           
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6">
             <span className="bg-gradient-to-r from-gray-900 via-blue-900 to-purple-900 bg-clip-text text-transparent">
-              Create UML Diagrams
+              Create Software & Hardware Diagrams
             </span>
             <br />
             <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
@@ -91,9 +91,9 @@ export default function Home() {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-            Transform your ideas into professional UML diagrams instantly. 
-            Just describe your system in plain English, and watch AI create 
-            perfect diagrams for you.
+            Transform your software and hardware ideas into professional diagrams instantly. 
+            Describe your system in plain English, and watch AI create 
+            perfect diagrams for software development and IoT hardware projects.
           </p>
         </motion.div>
 

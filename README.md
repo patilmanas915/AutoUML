@@ -4,14 +4,14 @@ A modern web application that generates UML diagrams from natural language descr
 
 ## Features
 
-- 🤖 **AI-Powered Generation**: Uses Google Gemini 1.5 Flash AI to convert natural language to PlantUML code
+- 🤖 **AI-Powered Generation**: Uses Google Gemini 2.5 Pro AI to convert natural language to PlantUML code
 - 🎨 **Modern UI**: Beautiful, responsive interface with smooth animations
-- 📊 **Multiple Diagram Types**: Supports Class, Sequence, Use Case, Activity, State, and Component diagrams
+- 📊 **9 Diagram Types**: Supports Class, Sequence, Use Case, Activity, State, Component, ER, Gantt, and Flow Chart diagrams
 - 💬 **Interactive Chat**: Conversational interface to guide users through diagram creation
 - 📥 **Download Support**: Download generated diagrams as PNG images
 - 🌐 **Vercel Ready**: Optimized for easy deployment on Vercel
 
-## Supported UML Diagram Types
+## Supported Diagram Types
 
 1. **Class Diagram** - Show classes, attributes, and relationships
 2. **Sequence Diagram** - Show interactions over time
@@ -19,6 +19,9 @@ A modern web application that generates UML diagrams from natural language descr
 4. **Activity Diagram** - Show workflow and processes
 5. **State Diagram** - Show state transitions
 6. **Component Diagram** - Show system components and dependencies
+7. **ER Diagram** - Show database entities and relationships
+8. **Gantt Chart** - Show project timeline and tasks
+9. **Flow Chart** - Show process flow and decision points
 
 ## Getting Started
 
